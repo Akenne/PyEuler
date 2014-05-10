@@ -1,0 +1,1 @@
+Just some euler problems I solved to attempt to learn some basic python
